@@ -1,0 +1,20 @@
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Aplicacion.resources
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.Cache
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\LSIA1\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\clase 4\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\clase 4\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\clase 4\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Aplicacion.resources
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\clase 4\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
